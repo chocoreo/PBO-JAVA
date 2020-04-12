@@ -1,2 +1,1 @@
-# TUGAS-PBO-STMIK-MDP
-Tugas 1 Pemograman Orientasi Objek
+Tugas Pemograman Berorientasi Objek (PBO) - STMIK Multi Data Palembang
